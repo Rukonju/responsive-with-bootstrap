@@ -1,0 +1,48 @@
+
+
+
+.nav-container{
+    background-color: rgba(255, 255, 255, 0.678);
+    position: sticky;
+    top: 10px;
+    margin: 0px 5px 10px 5px;
+}
+.dropdown-title{
+    color: black;
+    text-decoration: none;
+
+}
+.dropdown-title:hover{
+    color: black;
+
+}
+.bye-btn{
+    background-color: rgb(168, 112, 201);
+    color: black;
+    text-decoration: none;
+}
+.bye-btn:hover{
+    color: white;
+    background-color: rgb(172, 40, 189);
+}
+.headings{
+    font-size:2rem;
+}
+.container-bg{
+    background-color: rgba(255, 255, 255, 0.555);
+    border-radius: 10px;
+    
+}
+hr.vertical.dark {
+    background-image: linear-gradient(
+180deg
+,transparent,rgba(0,0,0,.4),transparent);
+}
+hr.vertical {
+    position: absolute;
+    background-color: transparent;
+    height: 100%;
+    right: 0;
+    top: 0;
+    width: 1px;
+}
